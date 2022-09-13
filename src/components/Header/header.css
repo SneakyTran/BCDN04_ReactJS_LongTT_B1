@@ -1,0 +1,8 @@
+.navbar-collapse {
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #212529!important;
+}
